@@ -1,0 +1,13 @@
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\bin\Debug\netcoreapp3.1\Hotels-EANAreaSync.exe
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\bin\Debug\netcoreapp3.1\Hotels-EANAreaSync.deps.json
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\bin\Debug\netcoreapp3.1\Hotels-EANAreaSync.runtimeconfig.json
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\bin\Debug\netcoreapp3.1\Hotels-EANAreaSync.runtimeconfig.dev.json
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\bin\Debug\netcoreapp3.1\Hotels-EANAreaSync.dll
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\bin\Debug\netcoreapp3.1\Hotels-EANAreaSync.pdb
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\obj\Debug\netcoreapp3.1\Hotels-EANAreaSync.csprojAssemblyReference.cache
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\obj\Debug\netcoreapp3.1\Hotels-EANAreaSync.csproj.CoreCompileInputs.cache
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\obj\Debug\netcoreapp3.1\Hotels-EANAreaSync.AssemblyInfoInputs.cache
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\obj\Debug\netcoreapp3.1\Hotels-EANAreaSync.AssemblyInfo.cs
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\obj\Debug\netcoreapp3.1\Hotels-EANAreaSync.dll
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\obj\Debug\netcoreapp3.1\Hotels-EANAreaSync.pdb
+C:\code\Hotels-EANAreaSync\Hotels-EANAreaSync\obj\Debug\netcoreapp3.1\Hotels-EANAreaSync.genruntimeconfig.cache
